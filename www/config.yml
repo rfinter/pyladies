@@ -200,7 +200,13 @@ chapters:
       location:
             latitude: 55.9531
             longitude: -3.1889
-
+            
+    - name:      Frankfurt, Germany
+      email: ffm@pyladies.com
+      location:
+            latitude: 50.1167
+            longitude: 8.6833     
+            
     - name:      Helsinki, Finland
       meetup_id: 13995752
       website: helsinki
